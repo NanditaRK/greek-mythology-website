@@ -153,15 +153,21 @@ body{
 #zeus{
     background-image: url(images/zeus.jpg);
     height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 #poseidon{
     background-image: url(images/poseidon.jpg);
     height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
 
 }
 #apollo{
     background-image: url(images/apollo.jpg);
     height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
      
 }
 .olympus_container{
